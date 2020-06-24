@@ -11,5 +11,5 @@ UTDA - Module 04 -
    2. The average math score received by students in each grade level at each school
    3. The average reading score received by students in each grade level at each school
    4. School performance based on the budget per student
-   5. School performance based on the school size 
+   5. School performance based on the school size
    6. School performance based on the type of school
